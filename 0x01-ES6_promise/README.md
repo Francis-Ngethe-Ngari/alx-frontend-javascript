@@ -1,1 +1,1 @@
-# **How to Write a JavaScript Promis**
+# **How to Write a JavaScript Promise**
